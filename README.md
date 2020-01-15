@@ -1,7 +1,7 @@
 # Srt-AsstoDfxp
 
 # Discription
-This code is Srt-Ass Subtitle converter , it converts it to Dxfp file.
+This code is Srt/Ass Subtitle converter , it converts it to Dxfp file.
 
 # Usage 
 
